@@ -9,6 +9,5 @@ This repository now publishes the simple public Operator Dashboard installer.
 ## Verification
 
 - File: `Operator_Dashboard_Setup.exe`
-- SHA256: `EB81457BF3BF2B4E46EFA981033932971B3FC1881099F2FF36E96E159D4EB4AD`
+- SHA256: `EA6E7277D9AD3DE806172D6FA0EAD164FA8E19B394EE74FAE7CDEA546C62E53C`
 - Published source folder: `C:\PUBLICATIONS\Operator Dashboard public`
-
